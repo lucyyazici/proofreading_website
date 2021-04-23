@@ -40,4 +40,4 @@ Submit your work via email to me at [lucy.kennedy@hotmail.com](mailto:lucy.kenne
 
 There is no obligation to commit, but I am sure you will be impressed.
 
-Learn more about my [service](/service/) here and more about my [rate](/rate/) here.
+
