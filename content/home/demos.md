@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 15
+weight: 20
 
 title: ""
 subtitle: ""
@@ -34,6 +34,6 @@ design:
     text_color_light: true
 ---
 
-My name is Lucy, and I assist authors in making their text look and sound **perfect** in **English**.
-
-As a **proofreader**, I am the final eyes on written projects, looking for things that have been missed in previous stages. I check for **spelling**, **grammar**, and **punctuation** errors and ensure that words flow consistently to enable the reader to hear the authors’ voice and be lost in their words and thoughts.
+- I proofread all types of written work, in many different formats.
+- I have experience working with both non-native and native speakers of English. 
+- I am reliable, fast, and affordable. 

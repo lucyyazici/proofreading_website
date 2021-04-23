@@ -5,4 +5,5 @@ header:
   image: ""
 title: My Publications
 view: 4
+draft: true
 ---

@@ -20,30 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: j.j.doe@kriens.edu
+email: lucy.kennedy@hotmail.com
 phone: +77 777 77 77
-address:
-  street: "42 Bendy Street"
-  city: "7777 Kriens"
-  region: ""
-  postcode: "Switzerland"
-  country: "Switzerland"
-  country_code: "CH"
-coordinates:
-  latitude: ""
-  longitude: ""
-directions: ""
-office_hours: ""
-appointment_url: ""
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
 
 # Site header
 
