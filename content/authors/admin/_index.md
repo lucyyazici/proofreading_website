@@ -1,27 +1,23 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My academic interests include party politics, public policy, and international polities.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Politics
+    institution: University of Horw
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: MA in Policy
+    institution: University of Littau
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BSc in Polity
+    institution: University of Malters
     year: 2008
-email: ""
+email: "jjdoe@random.edu"
 highlight_name: false
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+interests: [Party politics, Public policy, International polities]
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Kriens
+  url: https://www.kriens.edu/
+role: Associate Professor of Politics
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,22 +27,22 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/twitter
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/resulumit/workshop_website
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Jane J. Doe
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an associate professor of politics at the University of Kriens. I specialise in *party* politics. My work has featured in leading media outlets as well as in academic journals.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before joining the University of Kriens, I was an assistant professor at the University of Emmen, and a post-doctoral researcher at the University of Meggen.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "../files/jjd_resume.pdf" "newtab" >}}Download my CV{{< /staticref >}} for more information.
