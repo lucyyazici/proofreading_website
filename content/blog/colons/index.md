@@ -1,6 +1,6 @@
 ---
 title: "How to use a colon"
-subtitle: "Personal websites facilitate outreach and impression management, without the limitations of institutional websites"
+subtitle: ""
 summary: ""
 authors:
 - admin
@@ -35,9 +35,10 @@ When using a colon in this way, it is more common to use a lower-case letter aft
 Examples for introducing a list:
 
 - All adult insects have three body parts: head, thorax and abdomen.
-We’ve invited just a small number of people: Ella, Gemma, Gemma’s sister and Nicholas.
+- We’ve invited just a small number of people: Ella, Gemma, Gemma’s sister and Nicholas.
 - I bought a lot of vegetables at the supermarket: cabbage, cauliflower, courgette and pumpkin. 
-- It is important that what precedes the colon is a grammatically complete sentence. 
+
+It is important that what precedes the colon is a grammatically complete sentence. 
 
 Look at this sentence: The people I have invited are Ella, Gemma, Gemma’s sister and Nicholas. A colon cannot be used here because there is an incomplete sentence before the list of names.
 
