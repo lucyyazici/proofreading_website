@@ -57,7 +57,7 @@ Overall, a colon provides a strong emphasis, pointing the finger to specific inf
 Below you can enjoy some examples of colons used by great writers.
 
 “Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.” 
-Albert Einstein
+**Albert Einstein**
 
 "Success is not final, failure is not fatal: it is the courage to continue that counts."
 **Winston S. Churchill**
@@ -92,7 +92,6 @@ Albert Einstein
 “I can't give you a sure-fire formula for success, but I can give you a formula for failure: try to please everybody all the time.” 
 **Herbert Bayard Swope**
 
-
 "Stanley's father was an inventor. To be a successful inventor you need three things: intelligence, perseverance, and just a little bit of luck." 
 **Louis Sachar**
 
@@ -101,6 +100,3 @@ Albert Einstein
 
 “There are two ways of spreading light: to be the candle or the mirror that reflects it.”
 **Edith Wharton**
-
-
-
