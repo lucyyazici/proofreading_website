@@ -8,7 +8,7 @@ superuser: true
 title: Lucy
 ---
 
-I come from the beautiful seaside town of [Poole](https://en.wikipedia.org/wiki/Poole) in South West England. I graduated from the University of Reading with a degree in Education and taught in primary schools for the next 10 years. Teaching English, grammar and spelling to students every day was a huge part of my career.
+I come from the beautiful seaside town of [Poole](https://www.pooletourism.com/) in South West England. I graduated from the University of Reading with a degree in Education and taught in primary schools for the next 10 years. Teaching English, grammar and spelling to students every day was a huge part of my career.
 
 When I married an academic whose native language was not English my proofreading career began. 
 
