@@ -22,25 +22,31 @@ The colon can cause confusion as there are many different rules on how to use it
 The colon has three main roles: 
 - to introduce specific information or an explanation to a general idea
 - to introduce a list
- to introduce a quotation. 
+- to introduce a quotation. 
 
 Examples for introducing specific information or an explanation to a general idea:
-Never forget this point: think before you speak.
-The world is a stage: play your role well.
-She had only one goal: to win.
+
+- Never forget this point: think before you speak.
+- The world is a stage: play your role well.
+- She had only one goal: to win.
+
 When using a colon in this way, it is more common to use a lower-case letter after the colon in British English, while in American English it is more common to use a capital letter.
 
 Examples for introducing a list:
-All adult insects have three body parts: head, thorax and abdomen.
+
+- All adult insects have three body parts: head, thorax and abdomen.
 We’ve invited just a small number of people: Ella, Gemma, Gemma’s sister and Nicholas.
-I bought a lot of vegetables at the supermarket: cabbage, cauliflower, courgette and pumpkin. 
-It is important that what precedes the colon is a grammatically complete sentence. 
+- I bought a lot of vegetables at the supermarket: cabbage, cauliflower, courgette and pumpkin. 
+- It is important that what precedes the colon is a grammatically complete sentence. 
+
 Look at this sentence: The people I have invited are Ella, Gemma, Gemma’s sister and Nicholas. A colon cannot be used here because there is an incomplete sentence before the list of names.
 
 Examples for introducing a quotation:
-They shouted: “Watch out – it might collapse!”
-As Albus Dumbledore once said: "Happiness can be found even in the darkest of times if only one remembers to turn on the light."
-Benjamin Franklin once noted: “Tell me and I forget. Teach me and I remember. Involve me and I will learn.” 
+
+- They shouted: “Watch out – it might collapse!”
+- As Albus Dumbledore once said: "Happiness can be found even in the darkest of times if only one remembers to turn on the light."
+- Benjamin Franklin once noted: “Tell me and I forget. Teach me and I remember. Involve me and I will learn.” 
+
 It is also common to introduce a quotation using a comma.
 
 Overall, a colon provides a strong emphasis, pointing the finger to specific information or an explanation to the general idea stated at the beginning of the sentence. Although common in text, it is used sparingly. If you need any help with your use of colons, send me an email.
@@ -52,32 +58,32 @@ Below you can enjoy some examples of colons used by great writers.
 “Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.” 
 Albert Einstein
 
-Success is not final, failure is not fatal: it is the courage to continue that counts.
+"Success is not final, failure is not fatal: it is the courage to continue that counts."
 **Winston S. Churchill**
 
 “This above all: to thine own self be true.”
-William Shakespeare
+**William Shakespeare**
 
 “Will Strunk got out of this predicament by a simple trick: he uttered every sentence three times.”
-E.B. White
+**E.B. White**
 
 “But there was one other thing that the grown-ups also knew, and it was this: that however small the chance might be of striking lucky, the chance is there. The chance had to be there.”
-Roald Dahl 
+**Roald Dahl** 
 
 “As is a tale, so is life: not how long it is, but how good it is, is what matters.”
-JK Rowling
+**JK Rowling**
 
 “Good friends, good books, and a sleepy conscience: this is the ideal life.”
-Mark Twain
+**Mark Twain**
 
 “And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye.” 
-Antoine de Saint-Exupéry 
+**Antoine de Saint-Exupéry**
 
 “There are only three things that can kill a farmer: lightening, rolling over in a tractor and old age.”
-Bill Bryson
+**Bill Bryson**
 
 “Friendship is born at that moment when one person says to another: ‘What! You too? I thought I was the only one.’”
-CS Lewis
+**CS Lewis**
 
 “In three words I can sum up everything I’ve learned about life: It Goes On.”
 **Robert Frost**
@@ -87,7 +93,7 @@ CS Lewis
 
 
 "Stanley's father was an inventor. To be a successful inventor you need three things: intelligence, perseverance, and just a little bit of luck." 
-Louis Sachar 
+**Louis Sachar**
 
 “There is just one life for each of us: our own.”
  **Euripides**

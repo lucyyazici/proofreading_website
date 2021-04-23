@@ -22,7 +22,10 @@ main:
   - name: "About Me"
     url: '#about'
     weight: 60
+  - name: "Reviews"
+    url: "#reviews"
+    weight: 70
   - name: Blog
     url: 'blog/'
-    weight: 70
+    weight: 80
 

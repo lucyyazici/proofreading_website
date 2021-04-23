@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: lucy.kennedy@hotmail.com
-phone: +77 777 77 77
+phone: +47 920 51 225
 
 # Site header
 
@@ -115,7 +115,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: "UA-193201379-1"
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
