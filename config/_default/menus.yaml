@@ -8,19 +8,19 @@ main:
     url: '#hero'
     weight: 10
   - name: "Service"
-    url: 'service'
+    url: '#service'
     weight: 20
   - name: "Free Sample"
-    url: "free-sample/"
+    url: "#free-sample"
     weight: 30
   - name: "Rate"
-    url: 'rate/'
+    url: '#rate'
     weight: 40
-  - name: "Contact Me"
-    url: '#contact'
-    weight: 50
   - name: "About Me"
     url: '#about'
+    weight: 50
+  - name: "Contact Me"
+    url: '#contact'
     weight: 60
   - name: "Reviews"
     url: "#reviews"

@@ -1,12 +1,37 @@
 ---
-title: Service
-commentable: false
-date: "2018-06-28T00:00:00+01:00"
-editable: false
-header:
-  caption: ""
-  image: ""
-share: false
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
+widget: blank
+
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 40
+
+title: "Service"
+subtitle: ""
+
+design:
+  columns: "2"
+  background:
+    image: ""
+    image_darken: 1.0
+    image_parallax: true
+    image_position: center
+    image_size: cover
+    text_color_light: false
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
+ 
+#design:
+#  background:
+#    gradient_end: '#1976d2'
+#    gradient_start: '#004ba0'
+#    text_color_light: true
 ---
 
 I provide a high-quality proofreading service. This includes:
@@ -30,3 +55,4 @@ I can confirm 100% confidentiality. Your submitted documents and your personal i
 What questions do you have for me? For further information email me at lucy.kennedy@hotmail.com
 
 Find out more [about me](/#about) and my proofreading experience.
+
