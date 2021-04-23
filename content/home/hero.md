@@ -2,11 +2,11 @@
 widget: hero
 headless: true
 weight: 10
-title: "Welcome"
+title: "Lucy Proofs"
 hero_media: ""
 cta:
-  label: ""
-  url: ""
+  label: "Free sample"
+  url: "free-sample"
 cta_alt:
   label: ""
   url: ""
@@ -21,6 +21,4 @@ advanced:
   css_class: ""
 ---
 
-My name is Jane J. Doe, and I am an associate professor at the University of Kriens. On this website you can find more information [about myself](#about), my [academic work](publication/), [other writings](blog/), and my [contact details](#contact).
-
-A demonstration website, for a workshop on [creating websites for academics](https://github.com/resulumit/workshop_website) --- by [Resul Umit](https://resulumit.com/). 
+Reliable, fast, and affordable proofreading

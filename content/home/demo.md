@@ -4,7 +4,7 @@
 widget: blank
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Hugo Academic Theme Demo
-subtitle:
+title: ""
+subtitle: ""
 
 design:
   columns: "1"
@@ -26,15 +26,20 @@ design:
     text_color_light: false
   spacing:
     padding: ["20px", "0", "20px", "0"]
+ 
+design:
+  background:
+    gradient_end: '#1976d2'
+    gradient_start: '#004ba0'
+    text_color_light: true
 ---
 
-Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
+My name is Lucy, and I assist authors in making their text look and sound **perfect** in **English**.
 
-[Explore similar templates](https://wowchemy.com/templates/)
+As a **proofreader**, I am the final eyes on written projects, looking for things that have been missed in previous stages. I check for **spelling**, **grammar**, and **punctuation** errors and ensure that words flow consistently to enable the reader to hear the authors’ voice and be lost in their words and thoughts.
 
-**Over 500,000 [Amazing Websites](https://wowchemy.com/) have Already Been Built with Wowchemy**
+I proofread all types of written work, in many different formats, and I am reliable, fast and affordable. I have experience working with both non-native and native speakers of English. Find out more about me and my proofreading experience.
 
-**[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community**
 
 {{% callout note %}}
 This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [*Blank* widget](https://wowchemy.com/docs/getting-started/page-builder/).

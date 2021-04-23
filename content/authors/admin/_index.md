@@ -1,48 +1,21 @@
 ---
 bio: My academic interests include party politics, public policy, and international polities.
-education:
-  courses:
-  - course: PhD in Politics
-    institution: University of Horw
-    year: 2012
-  - course: MA in Policy
-    institution: University of Littau
-    year: 2009
-  - course: BSc in Polity
-    institution: University of Malters
-    year: 2008
-email: "jjdoe@random.edu"
+
+email: "lucy.kennedy@hotmail.com"
 highlight_name: false
-interests: [Party politics, Public policy, International polities]
-organizations:
-- name: University of Kriens
-  url: https://www.kriens.edu/
-role: Associate Professor of Politics
-social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/twitter
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.com
-- icon: github
-  icon_pack: fab
-  link: https://github.com/resulumit/workshop_website
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+
 superuser: true
-title: Jane J. Doe
+title: Lucy
 ---
 
-I am an associate professor of politics at the University of Kriens. I specialise in *party* politics. My work has featured in leading media outlets as well as in academic journals.
+I come from the beautiful seaside town of [Poole](https://en.wikipedia.org/wiki/Poole) in South West England. I graduated from the University of Reading with a degree in Education and taught in primary schools for the next 10 years. Teaching English, grammar and spelling to students every day was a huge part of my career.
 
-Before joining the University of Kriens, I was an assistant professor at the University of Emmen, and a post-doctoral researcher at the University of Meggen.
+When I married an academic whose native language was not English my proofreading career began. 
 
-{{< icon name="download" pack="fas" >}} {{< staticref "../files/jjd_resume.pdf" "newtab" >}}Download my CV{{< /staticref >}} for more information.
+Since 2010 I have lived in 5 different countries and have studied 4 new languages. My love of learning new languages also drew my attention to the rules and structure of my own native language, analysing in more depth the way English grammar works. 
+
+I proofread for both native and non-native English speakers. I have experience with proofreading journal articles, theses, websites, CVs, questionnaires, emails, proposals and many more. I have also proofread a whole range of essays and reports at varying education levels. I am happy to work on any written project from any genre. Contact me to see how I can help you.
+
+Submit your work for a free sample, find out about my service and my rates.
+
+I look forward to working with you.
