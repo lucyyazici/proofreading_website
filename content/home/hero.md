@@ -6,7 +6,7 @@ title: "Lucy Proofs"
 hero_media: ""
 cta:
   label: "Free sample"
-  url: "free-sample"
+  url: "#free-sample"
 cta_alt:
   label: ""
   url: ""
