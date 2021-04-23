@@ -34,8 +34,10 @@ design:
 #    text_color_light: true
 ---
 
-My affordable and straightforward rate is based on the exact length of your document, and it costs £15 per 1000 words.
+My affordable and straightforward rate is based on the exact length of your document.
 
-[Email me](mailto:lucy.kennedy@hotmail.com) your work for a one-page free sample.
+I charge £0.015 per word. So, for example, it costs £15 per 1000 words.
+
+
 
 
