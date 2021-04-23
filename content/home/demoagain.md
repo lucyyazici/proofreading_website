@@ -36,4 +36,4 @@ design:
 
 - I proofread all types of written work, in many different formats.
 - I have experience working with both non-native and native speakers of English. 
-- I am reliable, fast, and affordable. 
+- I am reliable, fast and affordable. 

@@ -1,5 +1,5 @@
 ---
-bio: My academic interests include party politics, public policy, and international polities.
+bio: I am a reliable, fast and affordable proofreader.
 
 email: "lucy.kennedy@hotmail.com"
 highlight_name: false

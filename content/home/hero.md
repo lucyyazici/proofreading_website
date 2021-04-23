@@ -21,4 +21,4 @@ advanced:
   css_class: ""
 ---
 
-Reliable, fast, and affordable proofreading
+Reliable, fast and affordable proofreading
