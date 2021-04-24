@@ -60,12 +60,15 @@ Below you can enjoy some examples of colons used by great writers.
 Albert Einstein
 
 "Success is not final, failure is not fatal: it is the courage to continue that counts."
+
 **Winston S. Churchill**
 
 “This above all: to thine own self be true.”
+
 **William Shakespeare**
 
 “Will Strunk got out of this predicament by a simple trick: he uttered every sentence three times.”
+
 **E.B. White**
 
 “But there was one other thing that the grown-ups also knew, and it was this: that however small the chance might be of striking lucky, the chance is there. The chance had to be there.”
