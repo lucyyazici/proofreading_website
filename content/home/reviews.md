@@ -37,7 +37,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2021-02-01"
-  description: "Lucy was a fantastic proofreader. I highly recommend her to anyone studying a Degree, Masters or at Doctorate level. She is very friendly yet professional. She is extremely knowledgeable on spelling, punctuation and grammar. She helped ensure my work flowed in a more consistent manner which I really appreciate. Her eye for detail is unmatched! Thank you Lucy!"
+  description: "Lucy was a fantastic proofreader. I highly recommend her to anyone studying a Degree, Masters or at Doctorate level. She is very friendly yet professional. She is extremely knowledgeable on spelling, punctuation, and grammar. She helped ensure my work flowed in a more consistent manner which I really appreciate. Her eye for detail is unmatched! Thank you Lucy!"
   organization: ""
   organization_url: ""
   title: "Ashley --- Postgraduate Student"
