@@ -26,12 +26,7 @@ design:
     text_color_light: false
   spacing:
     padding: ["20px", "0", "20px", "0"]
- 
-#design:
-#  background:
-#    gradient_end: '#1976d2'
-#    gradient_start: '#004ba0'
-#    text_color_light: true
+    
 ---
 
 I provide a high-quality proofreading service. This includes:
