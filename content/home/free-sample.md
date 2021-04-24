@@ -31,7 +31,7 @@ design:
 
 I offer a one-page free sample to give you an experience and an idea of how your document will be proofread. 
 
-Submit your work via email to me at [lucy.kennedy@hotmail.com](mailto:lucy.kennedy@hotmail.com). I look forward to working with you.
+Submit your work via email to me at [lucyproofs@gmail.com](mailto:lucyproofs@gmail.com). I look forward to working with you.
 
 There is no obligation to commit, but I am sure you will be impressed.
 
