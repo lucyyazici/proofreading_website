@@ -48,13 +48,13 @@ Examples for using a semicolon in complicated lists:
 
 These complicated lists often already contain commas, so using a semicolon to separate the items helps the reader to identify which objects are grouped together, making the list clearer and easier to understand.
 
-Now that you are an expert on the semicolon, read about the colon in my previous blog post. While both the colon and semicolon have many attributes that relate only to their own specific punctuation mark, it should be noted that there is a slight margin for an overlap between the two. 
+Now that you are an expert on the semicolon, read about the [colon](#How-to-use-a-colon) in my previous blog post. While both the colon and semicolon have many attributes that relate only to their own specific punctuation mark, it should be noted that there is a slight margin for an overlap between the two. 
 A colon expands or explains a general idea; a semicolon closely relates two ideas. For example:
 
 - He didn’t want to go to bed; he wanted to finish his drawing.
 - He didn’t want to go to bed: he wanted to finish his drawing.
 
-Both are acceptable. Both follow the rules of each use of punctuation mark. In these cases, the final decision lies with the writer. How do you want your text to be conveyed? If you need any help with your semicolons or colons, send me an email: I will be happy to help.
+Both are acceptable. Both follow the rules of each use of punctuation mark. In these cases, the final decision lies with the writer. How do you want your text to be conveyed? If you need any help with your semicolons or colons, send me an [email](mailto:lucyproofs@gmail.com): I will be happy to help.
 
 ## Examples from great writers
 
@@ -69,7 +69,7 @@ Below you can enjoy some examples of semicolons used by great writers.
 "The question isn't who is going to let me; it's who is going to stop me." 
 **Ayn Rand**
 
-Successful people do what unsuccessful people are not willing to do. Don't wish it were easier; wish you were better. 
+"Successful people do what unsuccessful people are not willing to do. Don't wish it were easier; wish you were better." 
 **Jim Rohn**
 
 "Be yourself; everyone else is already taken." 
