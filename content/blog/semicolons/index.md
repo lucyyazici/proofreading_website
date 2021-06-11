@@ -30,7 +30,7 @@ Examples for linking two independent clauses that are connected in thought:
 - There was nothing more the doctors could do for her; only time would tell
 whether she would recover.
 
-It is perfectly acceptable to use a full stop, comma or a conjunction (and, but etc.) instead of the semicolon, but this would change the effect on the reader (although only slightly). Using a semicolon gives both independent clauses equal rank and connects them together, showing that they are strongly related. It is important to remember that both what precedes and what follows the semicolon must be a complete sentence. The second sentence does not start with a capital letter unless it is a proper noun.
+It is perfectly acceptable to use a full stop, comma or a conjunction (and, but etc.) instead of the semicolon, but this would change the effect on the reader (although only slightly). Using a semicolon gives both independent clauses equal rank and connects them together, showing that they are strongly related. **It is important to remember that both what precedes and what follows the semicolon must be a complete sentence.** The second sentence does not start with a capital letter unless it is a proper noun.
 
 In addition to this, if a conjunctive adverb is used to link two sentences together, a semicolon must be used before it. 
 
