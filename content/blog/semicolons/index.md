@@ -20,7 +20,7 @@ image:
 The semicolon is a punctuation mark that can give your writing variety, bring a sense of style or give clarity to otherwise complicated lists. It could easily be replaced with a comma, full stop, or conjunction without altering the meaning of the text that much. If overused, its unusual effect could be lost, and sentences could become long and complicated. Let’s learn more about it!
 
 The semicolon has two main functions:
--	to link two independent clauses (complete sentences) that are connected in thought
+-	to link two independent clauses (complete sentences) that are connected in thought, and
 -	to break up complicated lists.
 
 Examples for linking two independent clauses that are connected in thought:
@@ -36,7 +36,6 @@ In addition to this, if a conjunctive adverb is used to link two sentences toget
 
 Here are some examples:
 -	My dad didn’t feel well; however, he still game to watch my show.
--	Mark wanted to be sure his text was accurate; therefore, he sent it to be proofread.
 -	Karen was busy cooking the dinner; meanwhile, her husband was busy building a bike shed in the back garden.
 
 A comma usually follows the conjunctive adverb, but it can be omitted too. There are many conjunctive adverbs. Some more examples are *instead,* *additionally,* *consequently, accordingly, therefore, thus* and *regardless.*
@@ -48,13 +47,13 @@ Examples for using a semicolon in complicated lists:
 
 These complicated lists often already contain commas, so using a semicolon to separate the items helps the reader to identify which objects are grouped together, making the list clearer and easier to understand.
 
-Now that you are an expert on the semicolon, read about the [colon](https://www.lucyproofs.com/blog/colons/) in my previous blog post. While both the colon and semicolon have many attributes that relate only to their own specific punctuation mark, it should be noted that there is a slight margin for an overlap between the two. 
+Now that you are an expert on the semicolon, [read about the colon](https://www.lucyproofs.com/blog/colons/) in my previous blog post. While both the colon and semicolon have many attributes that relate only to their own specific punctuation mark, it should be noted that there is a slight margin for an overlap between the two. 
 A colon expands or explains a general idea; a semicolon closely relates two ideas. For example:
 
 - He didn’t want to go to bed; he wanted to finish his drawing.
 - He didn’t want to go to bed: he wanted to finish his drawing.
 
-Both are acceptable. Both follow the rules of each use of punctuation mark. In these cases, the final decision lies with the writer. How do you want your text to be conveyed? If you need any help with your semicolons or colons, send me an [email](mailto:lucyproofs@gmail.com): I will be happy to help.
+Both are acceptable. Both follow the rules of each use of punctuation mark. In these cases, the final decision lies with the writer. How do you want your text to be conveyed? If you need any help with your semicolons or colons, [send me an email](mailto:lucyproofs@gmail.com): I will be happy to help.
 
 ## Examples from great writers
 
