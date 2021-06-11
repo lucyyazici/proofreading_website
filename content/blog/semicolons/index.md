@@ -19,10 +19,9 @@ image:
 
 The semicolon is a punctuation mark that can give your writing variety, bring a sense of style or give clarity to otherwise complicated lists. It could easily be replaced with a comma, full stop, or conjunction without altering the meaning of the text that much. If overused, its unusual effect could be lost, and sentences could become long and complicated. Let’s learn more about it!
 
-The semicolon has three main functions:
-- to link two independent clauses (complete sentences) that are connected in thought
-- to break up complicated lists
-- to relate two independent clauses using a conjunctive adverb (however, therefore etc.) 
+The semicolon has two main functions:
+-	to link two independent clauses (complete sentences) that are connected in thought
+-	to break up complicated lists
 
 Examples for linking two independent clauses that are connected in thought:
 
@@ -31,7 +30,16 @@ Examples for linking two independent clauses that are connected in thought:
 - There was nothing more the doctors could do for her; only time would tell
 whether she would recover.
 
-It is perfectly acceptable to use a full stop, comma or a conjunction (and, but etc.) instead of the semicolon, but this would change the effect on the reader (although only slightly). Using a semicolon gives both independent clauses equal rank and connects them together, showing that they are strongly related. It is important to remember that both what precedes and what follows the semicolon must be a complete sentence.
+It is perfectly acceptable to use a full stop, comma or a conjunction (and, but etc.) instead of the semicolon, but this would change the effect on the reader (although only slightly). Using a semicolon gives both independent clauses equal rank and connects them together, showing that they are strongly related. It is important to remember that both what precedes and what follows the semicolon must be a complete sentence. The second sentence does not start with a capital letter unless it is a proper noun.
+
+In addition to this, if a conjunctive adverb is used to link two sentences together, a semicolon must be used before it. 
+
+Here are some examples:
+-	My dad didn’t feel well; however, he still game to watch my show.
+-	Mark wanted to be sure his text was accurate; therefore, he sent it to be proofread.
+-	Karen was busy cooking the dinner; meanwhile, her husband was busy building a bike shed in the back garden.
+
+A comma usually follows the conjunctive adverb, but it can be omitted too. There are many conjunctive adverbs. Some more examples are instead, additionally, consequently, accordingly, therefore, thus and regardless.
 
 Examples for using a semicolon in complicated lists:
 
@@ -39,14 +47,6 @@ Examples for using a semicolon in complicated lists:
 - There are four members on the team: one from Lucerne, Switzerland; one from Vienna, Austria; and two from Oslo, Norway.
 
 These complicated lists often already contain commas, so using a semicolon to separate the items helps the reader to identify which objects are grouped together, making the list clearer and easier to understand.
-
-Examples of using a semicolon to relate two independent clauses using a conjunctive adverb:
-
-- My dad didn’t feel well; however, he still game to watch my show.
-- Mark wanted to be sure his text was accurate; therefore, he sent it to be proofread.
-- Karen was busy cooking the dinner; meanwhile, her husband was busy building a bike shed in the back garden.
-
-If a conjunctive adverb is used to link two sentences together, a semicolon must be used before it. A comma usually follows the conjunctive adverb, but it can be omitted too. There are many conjunctive adverbs. Some more examples are instead, additionally, consequently, accordingly, therefore, thus and regardless.
 
 Now you are an expert on the semicolon, read about the colon in my previous blog post. While each have many attributes that relate only to their own punctuation mark, it should be noted that there is a slight margin for an overlap between the two. A colon expands or explains a general idea; a semicolon closely relates two ideas. For example:
 
