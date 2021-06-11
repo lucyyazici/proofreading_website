@@ -21,7 +21,7 @@ The semicolon is a punctuation mark that can give your writing variety, bring a 
 
 The semicolon has two main functions:
 -	to link two independent clauses (complete sentences) that are connected in thought
--	to break up complicated lists
+-	to break up complicated lists.
 
 Examples for linking two independent clauses that are connected in thought:
 
@@ -48,7 +48,8 @@ Examples for using a semicolon in complicated lists:
 
 These complicated lists often already contain commas, so using a semicolon to separate the items helps the reader to identify which objects are grouped together, making the list clearer and easier to understand.
 
-Now you are an expert on the semicolon, read about the colon in my previous blog post. While each have many attributes that relate only to their own punctuation mark, it should be noted that there is a slight margin for an overlap between the two. A colon expands or explains a general idea; a semicolon closely relates two ideas. For example:
+Now that you are an expert on the semicolon, read about the colon in my previous blog post. While both the colon and semicolon have many attributes that relate only to their own specific punctuation mark, it should be noted that there is a slight margin for an overlap between the two. 
+A colon expands or explains a general idea; a semicolon closely relates two ideas. For example:
 
 - He didn’t want to go to bed; he wanted to finish his drawing.
 - He didn’t want to go to bed: he wanted to finish his drawing.
