@@ -50,7 +50,7 @@ Examples for introducing a quotation:
 
 It is also common to introduce a quotation using a comma.
 
-Overall, a colon provides a strong emphasis, pointing the finger to specific information or an explanation to the general idea stated at the beginning of the sentence. Although common in text, it is used sparingly. If you need any help with your use of colons, send me an [email](mailto:lucyproofs@gmail.com).
+Overall, a colon provides a strong emphasis, pointing the finger to specific information or an explanation to the general idea stated at the beginning of the sentence. Although common in text, it is used sparingly. If you need any help with your use of colons, [send me an email](mailto:lucyproofs@gmail.com).
 
 ## Examples from great writers
 
