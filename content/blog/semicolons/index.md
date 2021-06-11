@@ -48,7 +48,7 @@ Examples for using a semicolon in complicated lists:
 
 These complicated lists often already contain commas, so using a semicolon to separate the items helps the reader to identify which objects are grouped together, making the list clearer and easier to understand.
 
-Now that you are an expert on the semicolon, read about the [colon](blog/colons/) in my previous blog post. While both the colon and semicolon have many attributes that relate only to their own specific punctuation mark, it should be noted that there is a slight margin for an overlap between the two. 
+Now that you are an expert on the semicolon, read about the [colon](https://www.lucyproofs.com/blog/colons/) in my previous blog post. While both the colon and semicolon have many attributes that relate only to their own specific punctuation mark, it should be noted that there is a slight margin for an overlap between the two. 
 A colon expands or explains a general idea; a semicolon closely relates two ideas. For example:
 
 - He didn’t want to go to bed; he wanted to finish his drawing.
