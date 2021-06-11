@@ -39,7 +39,7 @@ Here are some examples:
 -	Mark wanted to be sure his text was accurate; therefore, he sent it to be proofread.
 -	Karen was busy cooking the dinner; meanwhile, her husband was busy building a bike shed in the back garden.
 
-A comma usually follows the conjunctive adverb, but it can be omitted too. There are many conjunctive adverbs. Some more examples are instead, additionally, consequently, accordingly, therefore, thus and regardless.
+A comma usually follows the conjunctive adverb, but it can be omitted too. There are many conjunctive adverbs. Some more examples are *instead,* *additionally,* *consequently, accordingly, therefore, thus* and *regardless.*
 
 Examples for using a semicolon in complicated lists:
 
